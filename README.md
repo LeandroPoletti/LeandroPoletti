@@ -10,4 +10,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroPoletti&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-
+[![An image of @leandropoletti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leandropoletti)](https://holopin.io/@leandropoletti)
